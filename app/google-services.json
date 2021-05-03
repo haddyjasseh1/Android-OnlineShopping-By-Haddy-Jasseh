@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "588115575853",
+    "project_id": "dijaonlineshop",
+    "storage_bucket": "dijaonlineshop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588115575853:android:52a45c78ca0b46835fa4a4",
+        "android_client_info": {
+          "package_name": "com.example.dijaonlineshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588115575853-9tqt3qdns8qjt8t1r1ukhhjfhcjpm3jl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeNOpaSiUdUvHMjTRdrV5wVPtxmV_KvFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588115575853-9tqt3qdns8qjt8t1r1ukhhjfhcjpm3jl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
